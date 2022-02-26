@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect summary of the most remarkable passages between the Kings Majesty and the commissioners of Parliament at the treating-house in Newport. From October the 2. to October the 9. Concnering, 1. The Kings Majesties last propositions to the commissioners and their answer. 2. His Majesties possitive answer to the point of religion. 3. A learned speech spoken by his Majesty touching Episcopacy. With the answer thereunto. 4. Divers remarkable passages between his Majesty and the commissioners sent to the army. 5. A message sent to the Lord Generall touching the treaty. 6. The Parliaments answer touching His Majesties last propositions. 7. His Majesties last papers delivered at the treaty. 8. Severall letters from Newport, concerning the proceedings between his Majesty and the commissioners since the last continuance of the treaty.</title>
+            <author>T. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76426</idno>
+            <idno type="STC">Wing B197</idno>
+            <idno type="STC">Thomason E466_9</idno>
+            <idno type="STC">ESTC R205228</idno>
+            <idno type="EEBO-CITATION">99864655</idno>
+            <idno type="PROQUEST">99864655</idno>
+            <idno type="VID">162297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162297)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E466[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect summary of the most remarkable passages between the Kings Majesty and the commissioners of Parliament at the treating-house in Newport. From October the 2. to October the 9. Concnering, 1. The Kings Majesties last propositions to the commissioners and their answer. 2. His Majesties possitive answer to the point of religion. 3. A learned speech spoken by his Majesty touching Episcopacy. With the answer thereunto. 4. Divers remarkable passages between his Majesty and the commissioners sent to the army. 5. A message sent to the Lord Generall touching the treaty. 6. The Parliaments answer touching His Majesties last propositions. 7. His Majesties last papers delivered at the treaty. 8. Severall letters from Newport, concerning the proceedings between his Majesty and the commissioners since the last continuance of the treaty.</title>
+                  <author>T. B.</author>
+                  <author>L. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A narrative and a letter are signed: T.B.; another letter is signed L. S.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162297:1"/>
+            <!-- PDF PAGE 41 -->
+            <head>A Perfect Summary Of the moſt Remarkable PASSAGES BETWEEN The Kings Majeſty and the Commiſsio<g ref="char:EOLhyphen"/>ners of Parliament at the Treating-houſe in <hi>NEWPORT. From October the</hi> 2. <hi>to October the</hi> 9.</head>
+            <argument>
+               <p>
+                  <hi>Concerning,</hi>
+                  <list>
+                     <item>1. The Kings Majesties laſt Propoſitions to the Commiſſioners and their Anſwer.</item>
+                     <item>2. His Majeſties poſſitive anſwer to the point of Religion.</item>
+                     <item>3. A learned Speech ſpoken by his Majeſty touching Epiſcopacy. With the Anſwer thereunto.</item>
+                     <item>4. Divers Remarkable Paſſages between his Majeſty and the Com<g ref="char:EOLhyphen"/>miſſioners ſent to the Army.</item>
+                     <item>5. A Meſſage ſent to the Lord Generall touching the Treaty.</item>
+                     <item>6. The Parliaments Anſwer touching His Majeſties laſt Propo<g ref="char:EOLhyphen"/>ſitions.</item>
+                     <item>7. His Majeſties laſt Papers delivered at the Treaty.</item>
+                     <item>8. Severall Letters from <hi>Newport,</hi> concerning the proceedings be<g ref="char:EOLhyphen"/>tween his Majeſty and the Commiſſioners ſince the laſt continuance of the Treaty.</item>
+                  </list>
+               </p>
+            </argument>
+            <p>
+               <label>Beginning Octob. 2.</label>
+               <lb/>
+THis day came letters from <hi>Newport</hi> one of which ſpecifieth, That the Kings Majeſty with his Biſhops and Lawyers, have had a great conference concerning the affaires of the Treaty, and his Majeſty declars his earneſt deſires to Treate perſonally with his houſes of Parl. and made ſome progreſſe in the Bill for the ſetlement of Religion. Papers came from his Maj. <hi>viz.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:162297:2"/>
+               <!-- PDF PAGE 42 -->His Majeſty will conſent that the calling and ſitting of the Aſſembly of Divines at <hi>weſtminſter,</hi> be confirmed for 3. years by Act of Parliament. And confirm for 3. years the Directory. And the form of Church Government, to be uſed for the Churches of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales;</hi> provided, that his Majeſty and thoſe of his Judgment, or any others who cannot in Conſcience ſubmit thereunto be not in the mean time obliged to comply with the ſame. And that a free conſultation and debate be had, with the Aſſembly of Divines at <hi>Weſtminſter</hi> in the mean time (20. of His Majeſties homination being added un<g ref="char:EOLhyphen"/>to them) whereby it may be determined by His Majeſty and his two Houſes of Parliament, how the ſaid Church Government and form of publick worſhip after the ſaid time, And how Religion may be ſetled, and the Articles determined, and care taken for the eaſe of tender conſciences. Concerning Biſhops Lands and Revenues, His Maj. will conſent to an Act or Acts of Parl. wherby Lives or for years, not exceeding 99 years, ſhall be made of thoſe Lands towards the ſatisfaction of the purchaſers, and others to whom they are engaged, wherby they may receive ſatisfaction, or His Maj. will ſome other way, for their further ſatisfaction. <hi>Provided that the propriety and inheritance of thoſe Lands may ſtill remaine to the Church: And the reſt ſhall be reſerved to be for their maintenance.</hi>
+            </p>
+            <p>His Maj. will give his Royall aſſent for the better obſervation of the Lords day; for ſuppreſſing of innovations in Churches &amp; Chap<g ref="char:EOLhyphen"/>pels, in and about the worſhip of God, and for the better advan<g ref="char:EOLhyphen"/>cing of the preaching of Gods holy word in all parts of this King<g ref="char:EOLhyphen"/>dom. And to an Act againſt injoying pluralities of Benefices by Spirituall perſons, and Nonreſidency, for regulating and reforming both Univerſities, and the Collidges of <hi>Weſtminſter, Wincheſter</hi> and <hi>Eaton,</hi> for the better diſcovery &amp; ſpeedy conviction of Popiſh Re<g ref="char:EOLhyphen"/>cuſants, as is deſired in your Propoſitions; for the education of the children of Papiſts by Proteſtants, in the Proteſtant Religion, for levying penalties againſt Papiſts, to an Act to prevent the practiſes of Papiſts againſt State, and for putting the Lawes in execution and for a ſtricter courſe to prevent hearing and ſaying of Maſſe.</p>
+            <p>
+               <hi>But as to the Covenant, his Majeſty is not yet therein ſatisfied, that he can ſigne or ſweare it or conſent to impoſe it, doth conceive it
+<pb n="3" facs="tcp:162297:2"/>
+                  <!-- PDF PAGE 42 -->
+proper or uſefull on the conſciences of others. Nor at this time to be in<g ref="char:EOLhyphen"/>ſiſted on.</hi>
+            </p>
+            <p>Touching the Militia, His Majeſty will conſent to an Act of Parliament.</p>
+            <p>That the Lords and Commons in the Parliament of <hi>England</hi> now aſſembled, or hereafter to be aſſembled, or ſuch as they ſhal ap<g ref="char:EOLhyphen"/>point, during the ſpace of 10 years ſhall Arme, Train and Diſci<g ref="char:EOLhyphen"/>pline, or cauſe to be Armed Diſciplined, All the forces of the King<g ref="char:EOLhyphen"/>doms of <hi>England</hi> and <hi>Jreland,</hi> and Dominion of <hi>Wales,</hi> the Iſles of <hi>Gernſey</hi> and <hi>Gerſey</hi> and the Town of <hi>Barwick</hi> up to <hi>Tweed,</hi> already raiſed, both for Sea and Land ſervice, And ſhall from time to time during the ſpace of 10 years raiſe, levy, arme, traine, and Diſci<g ref="char:EOLhyphen"/>pline, or cauſed to be raiſed, levied, armed, trained and diſciplined any other forces for land and Sea ſervice in the Kingdoms, Domini<g ref="char:EOLhyphen"/>ons, and places aforeſaid as in their judgments they ſhall during the ſpace of 10 years think fit to appoint.</p>
+            <p>And that neither the King, his heirs or ſucceſſors, or any other but ſuch as ſhall Act by the authority or approbation of the ſaid Lords and Commons ſhall during the ſaid ſpace of 10 years exerciſe any of the powers aforeſaid. And all the ſaid forces diſpoſed by the Lords and Commons as they ſhall think fit and not otherwiſe. And have power to ſuppreſſe all forces raiſed without their authority. To ſuppreſſe any forraign Forces invading the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> Dominion of <hi>Wales,</hi> the Iſles of <hi>Gernſey</hi> and <hi>Ierſey,</hi> and the Towne of <hi>Barwick</hi> upon <hi>Tweed,</hi> or any of them.</p>
+            <p>And after the expiration of the ſaid ten yeares, neither the King His Heires or Succeſſours, or any perſon or perſons by colour or pretence of any Commiſſions power, deputation, or authority to be derived from the King. His Heirs or Succeſſors, or any of them, ſhall without the conſent of the ſaid Lords and Commons, raiſe arme, train, diſcipline, imploy, order, manage, disband, or diſpoſe any the forces by ſea or land, without the conſent of the ſaid Lords and Commons.</p>
+            <p>And with the ſame proviſoes, for ſaving the ordinary Legall power of Officers of Juſtice, not being Military Officers, as is ſet down in your propoſitions.</p>
+            <p>And with a Declaration that if 30 perſons be aſſembled in a war<g ref="char:EOLhyphen"/>like manner, and not forthwith diſperſe themſelves being required
+<pb n="4" facs="tcp:162297:3"/>
+               <!-- PDF PAGE 43 -->
+by them, To be guilty of High-treaſon; to be uncapable of any par<g ref="char:EOLhyphen"/>don from his Majeſty, his heirs or Succeſſors. And that the City of London ſhall have and enjoy all their Rights, Liberties, &amp;c. in raiſing and imploying the forces of that City, in ſuch ſort as is mentioned in the propoſitions.</p>
+            <p n="1">1. That none be compelled, but in caſe of comming in of ſtrange enemies. And that the powers for maintenance of forts and Garri<g ref="char:EOLhyphen"/>ſons, and pay of this preſent Army, be exerciſed to no other purpoſes then to the ſuppreſſing of forces raiſed, or to be raiſed, without au<g ref="char:EOLhyphen"/>thority and conſent of the ſaid Lords and Commons as aforeſaid or for ſuppreſſing of any forraine forces invading. And that the, monies be raiſed by generall, and equall Taxations, ſaving that Tonnage and Poundage, and ſuch impoſts as have been applyed to the Navy, and be raiſed as hath been uſuall. And that all Patents, Commiſſioners, and other Acts concerning the premiſes, be made and Acted in his Majeſties name by Warrant, ſigned by the Lords and Commons, and ſuch other as they ſhall think fit to authoriſe for that purpoſe.</p>
+            <p>Touching <hi>Irel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd,</hi> after advice with his 2 houſes, He will leave it to their determination, and give His conſent accordingly, as is herein hereafter expreſſed.</p>
+            <p>Touching publick debts, His Maj. will give his conſent to ſuch an Act, for rayſing of monies by generall and equall taxations. His Majeſty will conſent to an Act, that during the ſaid ſpace of 10. years, the L. <hi>Chancelour,</hi> or the L. <hi>Keeper</hi> Com. of the great Seal, or treaſury L. Warden of the Cinque-ports, Chancellour of the Exchequer, and Dutchy, Secretaries of State Maſter of the Rolls, Judges of both Benches, and Barons of the Exchequer of <hi>England,</hi> be nominated by both houſes of the Parliament of England to con<g ref="char:EOLhyphen"/>tinue <hi>quam Diu ſe bene geſſerint:</hi> And in the intervaies of Parl, by ſuch others as they ſhall authoriſe for that purpoſe. His Maj. will conſent that the Militia of the City of London &amp; Liberties thereof, during 10 years may be in the ordering and Government of the Lord Mayor, Aldermen and Commons in the Common Councell Aſſem<g ref="char:EOLhyphen"/>bled, or ſuch as they from time to time appoint, to be imployed &amp; directed from time to time during the ſpace of 10 years in ſuch man<g ref="char:EOLhyphen"/>ner as ſhall be agreed upon, and appointed by both houſes of Parl. And no Citizen of London, nor any Officers of the ſaid City ſhall
+<pb n="5" facs="tcp:162297:3"/>
+               <!-- PDF PAGE 43 -->
+be drawne forth, or compelled to go out of the ſaid City or Liber<g ref="char:EOLhyphen"/>ties thereof, for Millitary ſervice, without their own free conſent. That an Act be paſſed for granting &amp; confirming the Charters, Cuſtomes, Liberties and Franchiſes of the City of <hi>London,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the <hi>Non uſer, Miſuſer,</hi> or <hi>Abuſer.</hi> And that during the tenne yeares, the Tower of London may be in the Government of the City of London.</p>
+            <p>And his Majeſty doth only propoſe, that he may have liberty, to repaire forthwith to <hi>Weſtminſter,</hi> and to be reſtored to a condition of freedom and ſafety, (a thing which he ſhall never deny to any of his Subjects) and to the poſſeſſion of his Lands and Revenues; And that an Act of Oblivion, and Indempnity may paſſe, to extend to all perſons, for all matters relating to the late unhappy differences, which being agreed by his 2. Houſes of Parliament, his Majeſty will be ready to make theſe his Conceſſions binding by giving them the force of Lawes by his Royall Aſſent.</p>
+            <p>The Lords this day received this letter from the King, brought by Captain <hi>Titus.</hi> And both Houſes had letters from the Commiſſio<g ref="char:EOLhyphen"/>ners, ſent by a Meſſenger of theirs, concerning the Treaty, Upon which both Houſes voted that they do approve of what the Com<g ref="char:EOLhyphen"/>miſſioners have done. And a letter of thanks to be ſent them, deſi<g ref="char:EOLhyphen"/>ring them to go on according to their inſtructions.</p>
+            <p>
+               <hi>The Parliament Meſſage to the Army touching the Treaty.</hi>
+            </p>
+            <p>Sir <hi>Thomas Withrington,</hi> Mr. <hi>Solicitor,</hi> Mr. <hi>Nathaniell Fines,</hi> and Mr. <hi>Thomas Chaloner,</hi> were choſen Commiſſioners from the Parl. to congratulate the Lord Gen. and gives his Excellency thanks for all his good ſervices, and communicate the particulers of what is done as to himſelf, and for his Army. And ſome votes concerning the eaſing of free quarter.</p>
+            <p>
+               <label>October 3.</label>
+               <lb/>
+This day came little Newes from Newport, only that his Maje<g ref="char:EOLhyphen"/>ſty is very deſirous to have things brought to a concluſion, &amp; ſeems not well ſatisfied about the point of Religion, but dayly expects an anſwer to his laſt conceſſions.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>THe buſineſſe here is of little conſequence for matter of Newes, only that which I believe you have formerly had, which is as fol<g ref="char:EOLhyphen"/>loweth, <hi>viz.</hi> That His Majeſty (in the abſence of the Commiſſio<g ref="char:EOLhyphen"/>ners)
+<pb n="6" facs="tcp:162297:4"/>
+                     <!-- PDF PAGE 44 -->
+and thoſe that have leave of the Parliament to attend him, were very cloſe about the Bill of Church Govern<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>But at night after ſupper, his Majeſty withdrew to pre<g ref="char:EOLhyphen"/>pare a paper to be preſented to the Parliaments Commiſſi<g ref="char:EOLhyphen"/>oners the next day; But in regard that all things were not finiſhed (as to ſatisfie) the Biſhops and Doctors were ap<g ref="char:EOLhyphen"/>pointed to meet him again the next morning.</p>
+                  <p>But beſides the diſpute about this buſineſſe of Church-Government, The King had conſultation with the Lords, and alſo with the Lawyers, and others about him, concer<g ref="char:EOLhyphen"/>ning the reſt of the propoſitions, ſome of them (as was ſaid) having given his Najeſty advice to ſend a letter to the Parl. to propound ſomthing to the Houſes in a taking way, ſo as that his Maj. may come to <hi>London,</hi> and treat with the Parliament at <hi>Weſtminſter</hi> about ſuch things as are not con<g ref="char:EOLhyphen"/>ſiderable.</p>
+                  <p>And beſides that, by ſuch Propoſitions he would find what the ſence of the 2. Houſes of Parliament is, and what his friends will do.</p>
+                  <p>And his Majeſty was adviſed (as was ſaid) firſt to offer this letter to the Comm<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſioners, and they refuſing it, he would ſend it up by one of his own Meſſengers, or atten<g ref="char:EOLhyphen"/>dants.</p>
+                  <p>His Majeſty preſented to the Commiſſioners a letter to the Parliament with Propoſitions to the Parliament con<g ref="char:EOLhyphen"/>cerning many things contained in the Propoſition from the Parliament, and offering to treat for the reſt, deſiring that they would ſend it to the Parliament.</p>
+                  <p>But in regard that it is contrary to their Inſtructions, the Commiſſioners deſired to be excuſed, and deſired that His Majeſty would pleaſe to give his anſwer to the Bill for Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="7" facs="tcp:162297:4"/>
+                     <!-- PDF PAGE 44 -->
+and ſo proceed by the way of Treaty, upon the reſt in order, which was the thing which they received in com<g ref="char:EOLhyphen"/>mand from the Parliament.</p>
+                  <p>The Commiſſioners that night diſpatched a Meſſenger to the Parl. with Letters to acquaint the Houſes that His Majeſty hath as yet conſented to nothing, but only the bill for recalling of the Declarations, &amp;c. And that ever ſince they have proceeded upon the Bill for Religion, but no<g ref="char:EOLhyphen"/>thing as yet concluded.</p>
+                  <p>And alſo to advertiſe the Parl. that his Maj. offered to them a paper to be ſent to the Parl. of Propoſitions by him made, to grant ſuch and ſuch things, and then the King to come to <hi>London,</hi> and treat for the reſt.</p>
+                  <p>Theſe being the cheifeſt paſſages here for the preſent, I remain yours</p>
+                  <closer>
+                     <signed>T. B.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <label>Octob. 5.</label>
+               <lb/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Right Honourable,</salute>
+                     </opener>
+                     <p>HIs Maj. thought to ſtay his poſſitive anſwer to the matter of Religi<g ref="char:EOLhyphen"/>on (now in debate here) untill he heard anſwer of his Meſſage ſent by Capt. Titus; but upon a motion from Mr. Seamer, one of the Mini<g ref="char:EOLhyphen"/>ſters with the Commiſſioners to undertake to prove that Lay Presbyte<g ref="char:EOLhyphen"/>rians are <hi>Jure Divino.</hi>
+                     </p>
+                     <p>His Majeſty ſaid that he had heard much of him (though a ſtranger) And that he did deſire to diſcourſe with him, A conference was had, and excellent Arguments laid down, And the King alſo diſcourſed very learnedly, but how farre his Majeſtie is ſatisfied therein, he hath not yet declared. The Treaty now goes on again, And you will hear ſomthing (conſiderable) from hence ſuddenly.</p>
+                     <closer>
+                        <dateline>Newport
+<date>4. Octob. 1648.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:162297:5"/>
+               <!-- PDF PAGE 45 -->
+               <label>Octob. 6.</label>
+               <lb/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Right Worſhipfull,</salute>
+                     </opener>
+                     <p>HAving ſo truſty a Meſſenger, I could not chuſe but adviſe you ſomthing of the State of buſineſſes with us in this Iſland, <hi>viz.</hi> The Kings Majeſty is in all likelihood in a way to come to an Agreement with the Commiſſioners, ſo that here is great hopes of a Concluſion; the point of Religion was the laſt thing they were upon, ſome papers were delivered to the Commiſſioners, which have cauſed much ſcruple be<g ref="char:EOLhyphen"/>twixt the King and Commiſſioners, but we hope all difficulties will be paſſed over with faci<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ty and a happy concluſion for the good of the King<g ref="char:EOLhyphen"/>dom. So I remain</p>
+                     <closer>
+                        <dateline>From Newport <date>this 2. of Octob. 1648.</date>
+                        </dateline>
+                        <signed>Your humble Servant <hi>T. B.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <label>Octob. 7</label>
+               <lb/>
+His Majeſties papers delivered into the Commiſſioners in defence of Biſhops, were 1. That his Maj. cannot conſent to aboliſhing Epiſ<g ref="char:EOLhyphen"/>copacy, becauſe it is his judgment that they are neareſt to Apoſtoli<g ref="char:EOLhyphen"/>call inſtitution. 2. That he is not ſatisfyed how he can in Conſcience do it in regard of his Coronation Oath. To the former the Mini<g ref="char:EOLhyphen"/>ſters delivered in their Anſwers, and prooffs of Presbytery to be nearer. To the latter. The Lawyers gave his Majeſty ſatis<g ref="char:EOLhyphen"/>faction.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>ACcording to your deſires in your laſt, I have ſent you a Narra<g ref="char:EOLhyphen"/>tive of the proceedings in theſe parts, viz. That the Kings Ma<g ref="char:EOLhyphen"/>jeſty as yet hath given no anſwer to to the Matter of Religion; but through ſome occaſions given, hath had ſome ſmall diſputation with Mr. <hi>Seamer</hi> a Miniſter with the Com: and diſcourſed very learned<g ref="char:EOLhyphen"/>ly about the Presbyterian Government; His Majeſty delivered ſome papers touching the Biſhops. His Majeſty cannot conſent to abo<g ref="char:EOLhyphen"/>liſhing Epiſcopacy, neither could he be ſatisfyed how he might in con<g ref="char:EOLunhyphen"/>cience do it, in regard of his coronation oht, both which the Miniſters and Lawyers gave his Majeſty ſatisfaction in, Sir I remain</p>
+                  <closer>
+                     <dateline>From Newport <date>Octob. 6. 1648.</date>
+                     </dateline>
+                     <signed>Your humble devoted Servant L. S.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
